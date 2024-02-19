@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
   const data = {
     status: 'true',
     message: 'Bot Successfully Activated!',
-    author: 'BOTCAHX'
+    author: 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
   };
   const result = {
     response: data
