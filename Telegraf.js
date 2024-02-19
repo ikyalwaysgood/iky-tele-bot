@@ -54,7 +54,7 @@ const Figlet = () => {
       return;
     }
     console.log(chalk.yellow.bold(data));
-    console.log(chalk.yellow(`BOTCAHX`));
+    console.log(chalk.yellow(`Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ`));
   });
 };
 
